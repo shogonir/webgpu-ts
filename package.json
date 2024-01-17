@@ -1,0 +1,17 @@
+{
+  "name": "webgpu-ts",
+  "version": "1.0.0",
+  "description": "WebGPU wrapper with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npm exec parcel src/index.html --open"
+  },
+  "keywords": [
+    "WebGPU"
+  ],
+  "author": "shogonir",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
